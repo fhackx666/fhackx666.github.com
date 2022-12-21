@@ -1,0 +1,2 @@
+;/*!wiki-common:packages/utils/eventEmitter.js*/
+define("wiki-common:packages/utils/eventEmitter",function(e,t,d){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;e=((e=e("wiki-common:node_modules/eventemitter3/index"))&&e.__esModule?e:{default:e}).default;t.default=e,d.exports=t.default});

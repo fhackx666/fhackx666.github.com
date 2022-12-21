@@ -1,0 +1,2 @@
+;/*!wiki-common:packages/utils/number.js*/
+define("wiki-common:packages/utils/number",function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.num2cn=function(e){e=parseInt(e,10);return 1e7<=e?((e-500)/1e4/1e4).toFixed(1).replace(".0","")+"亿":1e4<=e?((e-500)/1e4).toFixed(1).replace(".0","")+"万":e}});

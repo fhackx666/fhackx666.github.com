@@ -1,0 +1,2 @@
+;/*!wiki-common:packages/utils/throttle.js*/
+define("wiki-common:packages/utils/throttle",function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;e=((e=e("wiki-common:node_modules/lodash.throttle/index"))&&e.__esModule?e:{default:e}).default;t.default=e,o.exports=t.default});

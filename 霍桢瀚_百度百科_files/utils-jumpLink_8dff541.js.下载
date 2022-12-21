@@ -1,0 +1,2 @@
+;/*!wiki-common:packages/utils/jumpLink.js*/
+define("wiki-common:packages/utils/jumpLink",function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(e){var t=1<arguments.length&&void 0!==arguments[1]?arguments[1]:"_blank",n=document.createElement("a");n.style.display="none",n.setAttribute("target",t),n.setAttribute("href",e),document.body.appendChild(n),n.click(),document.body.removeChild(n)},n.exports=t.default});
