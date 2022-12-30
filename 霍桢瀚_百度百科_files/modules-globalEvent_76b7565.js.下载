@@ -1,2 +1,0 @@
-;/*!wiki-common:modules/globalEvent/index.js*/
-define("wiki-common:modules/globalEvent/index",function(e,i,l){"use strict";Object.defineProperty(i,"__esModule",{value:!0}),i.globalEvent=i.GLOBAL_EVENTS=void 0;e=new((e=e("wiki-common:packages/utils/eventEmitter"))&&e.__esModule?e:{default:e}).default;i.globalEvent=e;i.GLOBAL_EVENTS={LEMMA_AUDIO_PLAY:"lemmaaudioplay",LEMMA_AUDIO_PAUSE:"lemmaaudiopause",LEMMA_VIDEO_PLAY:"lemmavideoplay",LEMMA_VIDEO_PAUSE:"lemmavideopause",ON_MINI_PLAYER_SHOW:"onMiniPlayerShow",ON_MINI_PLAYER_HIDE:"onMiniPlayerHide"}});

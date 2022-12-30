@@ -1,2 +1,0 @@
-;/*!wiki-common:packages/components/Popup/index.jsx*/
-define("wiki-common:packages/components/Popup/index.jsx",function(e,o,d){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;e=((e=e("wiki-common:node_modules/reactjs-popup/dist/index"))&&e.__esModule?e:{default:e}).default;o.default=e,d.exports=o.default});

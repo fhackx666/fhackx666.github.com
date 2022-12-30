@@ -1,2 +1,0 @@
-;/*!wiki-common:packages/components/Dialog/index.jsx*/
-define("wiki-common:packages/components/Dialog/index.jsx",function(e,o,d){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;e=((e=e("wiki-common:node_modules/rc-dialog/lib/index"))&&e.__esModule?e:{default:e}).default;o.default=e,d.exports=o.default});
