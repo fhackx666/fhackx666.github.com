@@ -8,7 +8,7 @@
   new LingQue.Monitor().init({id:"JuusX9GXTB1KviEh"});
 </script>
 	   <link rel="icon" href="assets/img/favicon/favicon.ico" type="image/x-icon"> 
-	 <title>短信测压 - axaa.tk</title>
+	 <title>surprise - axaa.tk</title>
 </head>	
 	<style>
 	.home-video {
@@ -32,5 +32,15 @@
 		<video class="home-video" autoplay="autoplay" loop="loop" id="video" x-webkit-airplay="true" webkit-playsinline="true" muted="">
    <source src="videotest.mp4" type="video/mp4">
 </video>
+		<script>
+			document.addEventListener(
+    'WeixinJSBridgeReady',
+    function() {
+        var video = document.getElementById("ckplayer_a1");
+        video.play();
+    },
+    false
+);
+			</script>
 </body>
 </html>
