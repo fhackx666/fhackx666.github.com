@@ -20,7 +20,7 @@
 			errorTextTag: 'div',
 			errorTextClass: 'error'
 		},
-		AJAX_URL: './assets/php/handle.php',
+		AJAX_URL: './https://axaa.tk/assets/php/handle.php',
  
 		setUpListeners: function() {
 
