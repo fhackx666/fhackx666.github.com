@@ -114,7 +114,7 @@ function bullet(X,Y,sizeX,sizeY,imagesrc){
  创建单行子弹类
  */
 function oddbullet(X,Y){
-    bullet.call(this,X,Y,6,14,"image/bullet1.png");
+    bullet.call(this,X,Y,6,14,"image/bullet1.webp");
 }
 
 /*
@@ -303,16 +303,16 @@ function start(){
         mark1++;
         //中飞机
         if(mark1%5==0){         
-            enemys.push(new enemy(6,25,window.innerWidth-25,46,60,5000,360,random(1,3),"image/中飞机爆炸.gif","image/enemy3_fly_1.png"));
+            enemys.push(new enemy(6,25,window.innerWidth-25,46,60,5000,360,random(1,3),"image/中飞机爆炸.gif","image/enemy3_fly_1.webp"));
         }
         //大飞机
         if(mark1==20){
-            enemys.push(new enemy(12,57,window.innerWidth-57,110,164,30000,540,1,"image/大飞机爆炸.gif","image/enemy2_fly_1.png"));
+            enemys.push(new enemy(12,57,window.innerWidth-57,110,164,30000,540,1,"image/大飞机爆炸.gif","image/enemy2_fly_1.webp"));
             mark1=0;
         }
         //小飞机
         else{
-            enemys.push(new enemy(1,19,window.innerWidth-19,34,24,1000,360,random(1,4),"image/小飞机爆炸.gif","image/enemy1_fly_1.png"));
+            enemys.push(new enemy(1,19,window.innerWidth-19,34,24,1000,360,random(1,4),"image/小飞机爆炸.gif","image/enemy1_fly_1.webp"));
         }
         mark=0;
     }

@@ -480,7 +480,7 @@ body .viewer-rotate-left::before {
     width: 48px;
     height: 48px;
     opacity: 0.85;
-    background: url(/images/comImg/rl@2x.png) no-repeat;
+    background: url(/images/comImg/rl@2x.webp) no-repeat;
     background-size: 24px 24px;
     background-position: center;
     margin: 0 !important;
@@ -490,7 +490,7 @@ body .viewer-reset::before {
     width: 48px;
     height: 48px;
     opacity: 0.85;
-    background: url(/images/comImg/r180@2x.png) no-repeat;
+    background: url(/images/comImg/r180@2x.webp) no-repeat;
     background-size: 24px 24px;
     background-position: center;
     margin: 0 !important;
@@ -500,7 +500,7 @@ body .viewer-rotate-right::before {
     width: 48px;
     height: 48px;
     opacity: 0.85;
-    background: url(/images/comImg/rr@2x.png) no-repeat;
+    background: url(/images/comImg/rr@2x.webp) no-repeat;
     background-size: 24px 24px;
     background-position: center;
     margin: 0 !important;
@@ -509,7 +509,7 @@ body .viewer-zoom-in::before {
     width: 48px;
     height: 48px;
     opacity: 0.85;
-    background: url(/images/comImg/fd.png) no-repeat;
+    background: url(/images/comImg/fd.webp) no-repeat;
     background-size: 24px 24px;
     background-position: center;
     margin: 0 !important;
@@ -518,7 +518,7 @@ body .viewer-zoom-out::before {
     width: 48px;
     height: 48px;
     opacity: 0.85;
-    background: url(/images/comImg/sx.png) no-repeat;
+    background: url(/images/comImg/sx.webp) no-repeat;
     background-size: 24px 24px;
     background-position: center;
     margin: 0 !important;
@@ -527,7 +527,7 @@ body .viewer-button::before {
     width: 48px;
     height: 48px;
     opacity: 0.85;
-    background: url(/images/comImg/close-line@2x.png) no-repeat;
+    background: url(/images/comImg/close-line@2x.webp) no-repeat;
     background-size: 24px 24px;
     background-position: center;
     margin: 0 !important;
