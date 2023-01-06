@@ -1,0 +1,80 @@
+/*蓝色值：128beb 黄色值：ffa20e*/
+/*exam*/
+.ksy-Entrance:before,.ksy-ranking-box:before,.ksy-historical-result:before,.ksy-feedback:before,.ksy-test-success:before,.ksy-practice-box:before{border-top: 8px solid #128beb;}
+.ksy-Entrance aside .ksy-line{  background-color:#ffa20e;}
+.ksy-Entrance aside button,.ksy-Entrance-from button,.ksy-Identification button{ box-shadow: 0 4px 7px 0 rgba(132,201,255,0.4)}
+.ksy-colA{background-color: #128beb;}
+.ksy-colB{background-color: #abadaf;}
+.signNameBox .witnessing,.photographBut .upload{ background-color: #128beb; }
+.ksy-Identification ul li .Identification-active,.ksy-Identification ul .Line-active{ background-color: #128beb;}
+.text-active{ color:#128beb }
+.signNameBox .take{background: #128beb;box-shadow: 0 4px 7px 0 rgba(132,201,255,0.4) }
+.ksy-Entrance aside button:hover,.ksy-Entrance-from button:hover,.ksy-Identification button:hover,.return-button:hover{background-color: #0f6ecd;}
+.ButtonBox .Begin-Test:hover{ background-color: #0f6ecd}
+/*lesson*/
+.top-course{background-color: #128beb;}
+.keep-learn{ background-color:#128beb}
+.keep-learn:hover{ background-color:#0f6ecd;}
+.tab-nav ul .active-tab{ color:#128beb; border-bottom:2px solid #128beb}
+/*lessondetail*/
+.tab-nav ul .active-tab{ color:#128beb; border-bottom:2px solid #128beb}
+.introduce-box h1::before{ background-color:#128beb;}
+.xqr-top .bar-w{background-color: #128beb;}
+/*paper*/
+.Submit-score{ background-color: #e52323;}
+.Submit-score:hover{ background-color: #d61b1b; }
+.test-end,.next-question,.return{background-color: #128beb;  }
+.test-end:hover,.next-question:hover,.return{ background-color: #0d7cd3}
+.last-question{ border: 1px solid #128beb; background-color: #cee9ff; color:#128beb }
+.last-question:hover{ background-color: #bbe0ff}
+.bar-w {background-color: #128beb;}
+.answer-button .button-cssb{border: 1px solid #0976cd; color: #FFFFFF;background-color: #128beb;}
+.weui-dialog__btn_primary{color: #128beb;}
+/*答题卡和选项样式*/
+.topic-box >.topic-active { border: 1px solid #c2e4ff; background-color: #c2e4ff;color:#128beb;}
+.topicbox-sign .finish-answer::before{background-color: #c2e4ff; border: 1px solid #c2e4ff;}
+.choice-question{background-color: #128beb;border: 1px solid #128beb;}
+/*wrong-questions和correct-questions 一定要放在choice-question的后面*/
+.wrong-questions{ background-color: #fb3636;border: 1px solid #fb3636;}
+.correct-questions{background-color: #2cab18;border: 1px solid #2cab18;}
+.topic-box >.topic-active-correct{color:#019319;border:1px solid #019319;background-color:#d5ffdc}
+.topic-box >.topic-active-error{color:#e52323;border: 1px solid #e52323;background-color: #f1bfbf}
+.topic-box >.topic-active-part-correct{color:#019319;border:1px solid #019319;background-color:#fff}
+.stars-sign{color:#ff9d00}
+.weui-switch-cp__input:checked~.weui-switch-cp__box, .weui-switch:checked {border-color: #128beb;background-color: #128beb;}
+/*result*/
+.top-result{ background-color:#128beb;}
+.result-value .result-rank-value {background-color: #f3a601;}
+.result-ewm button{border: 1px solid #128beb; color:#128beb;}
+.result-ewm button:hover{ color: #0f6ecd}
+.top-result{background-image: url(../images/bg-web.png); }
+/*result-交卷成功-pc css */
+.ksy-test-success i{ color: #128beb; }
+.ksy-test-success h3{ color: #128beb; }
+/*加载样式*/
+.ksy-load>div{background-color:#128beb;}
+
+@media screen and ( max-width:1024px) {
+/*footer---------web*/
+.Exam-footer-web .last-question-web{background-color: #cee9ff; color: #128beb }
+.Exam-footer-web,.next-question-web { background-color: #128beb; }
+.testpaper-end-web{background-color: #c92b2b;}
+.Exam-footer-web .answer-sheet-web{background-color: #e6e6e6; }
+.Exam-footer-web .more-setup-web{background-color: #f2f2f2;color: #128beb;}
+.keep-learn i{ color:#b7bbbe}
+.keep-learn{background-color:#fff; color:#333333;}
+.keep-learn:hover{ background-color:none;}
+.xqr-eject-web .tab-nav ul .active-tab{color: #128beb}
+.xqr-eject-web .tab-nav ul .active-tab i {color: #128beb}
+.face-discern-webbox button{background-color: #128beb;}
+.ViewWrongQuestion{background:#e1251b;}
+.ViewAllQuestion{background:#128beb;}
+}
+
+/*.DropDown-Fr li a:hover{color: #16a951}
+.Exam-footer a{color: #16a951}
+.ksy-Entrance aside section .test-click{ border: 1px solid #16a951; color: #16a951;}
+.answersheet h1{border-bottom: 2px solid #16a951;}
+.top-result{ background-color:#16a951;}
+.my-ranking-box{ background-color: #3faaff}
+*/
