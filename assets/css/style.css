@@ -74,7 +74,8 @@ Version: 2.0.0
 /* === 1. Content === */
 /* 1.1 Fonts */
 /*因字体作用不大，暂时屏蔽*/
-/*@font-face {
+/*疑似出现问题，重新取消屏蔽*/
+@font-face {
     font-family: "Source Sans Pro";
   font-style: normal;
   font-weight: 400;
@@ -121,7 +122,7 @@ Version: 2.0.0
   font-display: swap;
   src: url("../fonts/material-icons/material-icons-outlined.woff2") format("woff2");
 }
-*/
+
 
 /* 1.2 Base */
 * {
