@@ -1,126 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://axaa.tk/</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/index.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/about-us.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/services.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/news.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/contacts.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/bsms/</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/yiwenshengtu/</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/test.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/terms-and-conditions.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/privacy-policy.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/new001.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/cxk/ball/</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/chat.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%9F%E6%9C%AB%E6%A3%80%E6%B5%8B.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/cxk/vc/</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/cxkvc.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/klgk.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://axaa.tk/bdtb001.html</loc>
-  <lastmod>2023-01-05T09:28:09+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-
-
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+                <url>
+                  <loc>https://www.axaa.tk/news.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://www.axaa.tk/</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/new001.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/cxk/ball</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/chat.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/2022学年第一学期信息科技期末检测.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/cxkvc.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/klgk.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/bdtb001.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/index.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/about-us.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/services.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/news.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/contacts.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/bsms</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/yiwenshengtu</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/test.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/terms-and-conditions.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk/privacy-policy.html</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url>
+                <url>
+                  <loc>https://axaa.tk</loc>
+                  <lastmod>2023-01-08</lastmod>
+                </url></urlset>
